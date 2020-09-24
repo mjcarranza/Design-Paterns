@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mario/CLionProjects/Adapter/Sum.cpp
+Sum.h
+/home/mario/CLionProjects/Adapter/Sum.h
+iostream
+-
+
+/home/mario/CLionProjects/Adapter/Sum.h
+
