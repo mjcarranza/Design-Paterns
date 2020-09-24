@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mario/CLionProjects/Singleton/CellPhone.cpp
+CellPhone.h
+/home/mario/CLionProjects/Singleton/CellPhone.h
+
+/home/mario/CLionProjects/Singleton/CellPhone.h
+

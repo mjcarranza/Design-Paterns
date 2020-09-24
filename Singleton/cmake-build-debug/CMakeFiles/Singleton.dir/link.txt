@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Singleton.dir/main.cpp.o CMakeFiles/Singleton.dir/CellPhone.cpp.o  -o Singleton 
